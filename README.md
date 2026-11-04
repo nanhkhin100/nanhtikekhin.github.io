@@ -1,5 +1,5 @@
 # nanhtikekhin.github.io
-This is my web
+This is my personal web
 
 # _Nan Htike Khin_
 > Payap University, Department of Hospitality Industry Management<br />
